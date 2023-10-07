@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Muzammil-patel019
-- 👀 I’m interested in Some Coding
-- 🌱 I’m currently learning BE
+- 👀 I’m interested inCoding
+- 🌱 Graduated recently
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 👀👀👀👀
 
