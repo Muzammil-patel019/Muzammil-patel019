@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Muzammil-patel019
-- 👀 I’m interested inCoding
-- 🌱 Graduated recently
+- 👋 Hi, I’m @Muzammil-Patel
+- 👀 I’m interested in Coding
+- 🌱 Graduated recently YOP-2023
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 👀👀👀👀
+- 📫 How to reach me my mail-muzammilp1162@gmail.com
 
 <!---
 Muzammil-patel019/Muzammil-patel019 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
